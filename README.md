@@ -13,3 +13,9 @@ Data Analyst Team for CIB  projects
 8. Dashboard
 9. ML / Generative AI
 10. Prompt Engineering
+
+## Contact Me
+reach out to me at wirachan52@gmail.com
+
+## image
+![deadpool](https://pyxis.nymag.com/v1/imgs/6db/c28/9dbe2b4e31757c2619cfb513dc64299e12-09-yic-deadpool.rsquare.w400.jpg)
